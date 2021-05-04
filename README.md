@@ -1,7 +1,8 @@
 # Bianca-s-Crossword
 <img src="color-crossword.gif" />
 
-<ul>To Do: 
+<h4>To Do: </h4>
+<ul> 
   <li>Black background</li>
   <li>Monochromatic </li>
 </ul>
